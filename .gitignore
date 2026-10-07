@@ -28,4 +28,4 @@ temp/
 *.so
 *.dylib
 *.o
-*.bin
+*.bin.DS_Store
